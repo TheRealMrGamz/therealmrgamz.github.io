@@ -1,0 +1,163 @@
+body {
+    font-family: 'Courier New', monospace;
+    background-color: #111;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #000;
+    color: #00ff00; 
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #000;
+    color: #00ff00;
+    text-align: center;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: #00ff00;
+    margin: 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #000;
+    color: #00ff00;
+    text-align: center;
+    padding: 10px;
+}
+
+
+#links {
+    background-color: #222;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+#links h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#projects h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+#links ul {
+    list-style: none;
+    padding: 0;
+}
+
+#links li {
+    margin-bottom: 10px;
+}
+
+#links a {
+    text-decoration: none;
+    color: #00ff00; 
+    font-weight: bold;
+}
+
+#profile-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#profile-info img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+#profile-info h2 {
+    font-size: 24px;
+    margin: 10px 0;
+    color: #00ff00; 
+}
+
+#profile-info p {
+    font-size: 16px;
+    color: #888;
+}
+
+#links img {
+    width: 24px;
+    height: 24px;
+    margin-right: 10px; 
+}
+
+#profile-info {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#profile-info img {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%;
+}
+
+#profile-info h2 {
+    font-size: 24px;
+    margin: 10px 0;
+}
+
+#profile-info p {
+    font-size: 16px;
+    color: #888;
+}
+
+.project-card {
+    background-color: #333; 
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.project-card h3 {
+    font-size: 20px;
+    color: #fff; 
+    margin-bottom: 10px;
+}
+
+.project-card p {
+    color: #ccc;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+.project-card a {
+    text-decoration: none;
+    background-color: #00ff00; 
+    color: #000; 
+    font-weight: bold;
+    padding: 8px 16px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.project-card a:hover {
+    background-color: #009900;
+    color: #fff;
+}
+
+#links img {
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+}
